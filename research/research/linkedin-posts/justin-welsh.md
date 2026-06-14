@@ -22,7 +22,7 @@ While analyzing Justin Welsh's content, I want to better understand:
 3. How storytelling is combined with educational content.
 4. Which content frameworks could be adapted for B2B SaaS companies.
 
-## Posts to Review
+## Posts to Review (Selected Samples)
 
 - “Daily consistency beats viral moments”
 - “How I grew without paid ads”
