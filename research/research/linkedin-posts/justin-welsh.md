@@ -24,6 +24,6 @@ While analyzing Justin Welsh's content, I want to better understand:
 
 ## Posts to Review
 
-- Post #1
-- Post #2
-- Post #3
+- “Daily consistency beats viral moments”
+- “How I grew without paid ads”
+- “Why most content fails after 48 hours”
