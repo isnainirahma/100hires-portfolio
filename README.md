@@ -10,12 +10,11 @@ The goal of this project is to analyze how top creators build audience, generate
 
 ## Research Structure
 
-The repository is organized as follows:
 research/
-├── sources.md
-├── insights.md
-├── linkedin-posts/
-├── youtube-transcripts/
+- sources.md
+- insights.md
+- linkedin-posts/
+- youtube-transcripts/
 
 ---
 
