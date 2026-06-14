@@ -28,7 +28,7 @@ While analyzing Justin Welsh's content, I want to better understand:
 - “How I grew without paid ads”
 - “Why most content fails after 48 hours”
 
-  ## Post Analysis
+## Post Analysis
 
 ### Post #1
 
