@@ -15,7 +15,7 @@ Mandy McEwen focuses on B2B social selling and LinkedIn lead generation strategi
 - Role of personal branding in sales pipeline.
 - Effective CTA structures in organic posts.
 
-## Posts to Review
-- Post #1
-- Post #2
-- Post #3
+## Posts to Review (Selected Samples)
+- “How to turn LinkedIn into a lead engine”
+- “Why cold outreach is dying”
+- “The social selling framework that works”
