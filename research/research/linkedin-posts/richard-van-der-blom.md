@@ -15,7 +15,7 @@ Richard van der Blom is known for his deep research on the LinkedIn algorithm an
 - Engagement patterns that trigger distribution.
 - Best practices for maximizing organic visibility.
 
-## Posts to Review
-- Post #1
-- Post #2
-- Post #3
+## Posts to Review (Selected Samples)
+- “LinkedIn algorithm update breakdown”
+- “What actually increases reach in 2026”
+- “Why your posts stop getting impressions”
