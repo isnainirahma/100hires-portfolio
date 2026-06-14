@@ -1,5 +1,4 @@
 # Research Sources
-# Research Sources
 
 ## Project Topic
 
