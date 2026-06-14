@@ -2,6 +2,7 @@
 
 Video Topic:
 Content Systems for Consistent Growth
+
 Key Takeaways:
 - Consistency is more important than viral content
 - Content systems help maintain long-term output
