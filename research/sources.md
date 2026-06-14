@@ -28,7 +28,7 @@ Reason for Selection:
 Justin Welsh is one of the most recognizable LinkedIn creators for founders and consultants. His content focuses on building audience, authority, and sustainable content systems through organic growth.
 
 Date Collected:
-August 2026
+June 2026
 
 ---
 
@@ -44,7 +44,7 @@ Reason for Selection:
 Known for publishing annual LinkedIn algorithm research reports and providing data-driven insights into content performance and platform trends.
 
 Date Collected:
-August 2026
+June 2026
 
 ---
 
@@ -60,7 +60,7 @@ Reason for Selection:
 Mandy McEwen specializes in helping B2B companies generate leads through LinkedIn and social selling strategies.
 
 Date Collected:
-August 2026
+June 2026
 
 ---
 
@@ -76,7 +76,7 @@ Reason for Selection:
 Daniel Murray consistently shares actionable marketing insights and content frameworks that generate strong engagement among B2B audiences.
 
 Date Collected:
-August 2026
+June 2026
 
 ---
 
@@ -92,7 +92,7 @@ Reason for Selection:
 Dave Gerhardt is widely recognized for promoting founder-led marketing and brand-driven growth strategies in B2B SaaS.
 
 Date Collected:
-August 2026
+June 2026
 
 ---
 
@@ -108,7 +108,7 @@ Reason for Selection:
 Chris Walker focuses on connecting marketing activities directly to pipeline and revenue outcomes, making his content highly relevant to SaaS growth.
 
 Date Collected:
-August 2026
+June 2026
 
 ---
 
@@ -124,7 +124,7 @@ Reason for Selection:
 Ross Simmonds emphasizes content distribution and amplification, providing valuable insights into maximizing the reach of organic content.
 
 Date Collected:
-August 2026
+June 2026
 
 ---
 
@@ -140,7 +140,7 @@ Reason for Selection:
 Katelyn Bourgoin shares practical lessons on customer behavior, decision-making, and messaging strategies that improve content effectiveness.
 
 Date Collected:
-August 2026
+June 2026
 
 ---
 
@@ -156,7 +156,7 @@ Reason for Selection:
 Gaetano DiNardi combines growth marketing, SEO, and demand generation insights that support scalable SaaS growth strategies.
 
 Date Collected:
-August 2026
+June 2026
 
 ---
 
@@ -172,7 +172,7 @@ Reason for Selection:
 Tas Bober provides practical frameworks for LinkedIn prospecting, audience building, and lead generation.
 
 Date Collected:
-August 2026
+June 2026
 
 ---
 
