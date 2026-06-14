@@ -10,11 +10,12 @@ The goal of this project is to analyze how top creators build audience, generate
 
 ## Research Structure
 
-research/
-- sources.md
-- insights.md
-- linkedin-posts/
-- youtube-transcripts/
+All research materials are organized under the `research` directory, which includes:
+
+- sources.md → list of selected experts and rationale
+- insights.md → synthesized findings across all sources
+- linkedin-posts → individual LinkedIn content analysis from each expert
+- youtube-transcripts → video summaries and extracted insights
 
 ---
 
